@@ -1,0 +1,48 @@
+B = 0
+CPU time (ms):    18.85
+Sum of costs:    21
+Expanded nodes:  2
+Generated nodes: 2
+svmem(total=16991371264, available=9663275008, percent=43.1, used=7328096256, free=9663275008) 6988
+
+B = 1
+CPU time (ms):    17.86
+Sum of costs:    21
+Expanded nodes:  2
+Generated nodes: 2
+svmem(total=16991371264, available=9624875008, percent=43.4, used=7366496256, free=9624875008) 7025
+
+B = 2
+CPU time (ms):    46.63
+Sum of costs:    21
+Expanded nodes:  4
+Generated nodes: 5
+svmem(total=16991371264, available=9601142784, percent=43.5, used=7390228480, free=9601142784) 7047
+
+B = 5
+CPU time (ms):    536.67
+Sum of costs:    21
+Expanded nodes:  31
+Generated nodes: 45
+svmem(total=16991371264, available=9607757824, percent=43.5, used=7383613440, free=9607757824) 7041
+
+B = 10
+CPU time (ms):    21107.54
+Sum of costs:    21
+Expanded nodes:  859
+Generated nodes: 1278
+svmem(total=16991371264, available=9719685120, percent=42.8, used=7271686144, free=9719685120) 6934
+
+B = 100
+CPU time (ms):    22605.58
+Sum of costs:    21
+Expanded nodes:  6238
+Generated nodes: 12243
+svmem(total=16991371264, available=9659158528, percent=43.2, used=7332212736, free=9659158528) 6992
+
+B = 1000
+CPU time (ms):    22539.37
+Sum of costs:    21
+Expanded nodes:  6238
+Generated nodes: 12243
+svmem(total=16991371264, available=9610043392, percent=43.4, used=7381327872, free=9610043392) 7039
